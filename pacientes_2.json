@@ -1,0 +1,63 @@
+{
+  "Pesquisa": "Principais Indicadores de Doenca Cardiaca",
+  "Ano": 2020,
+  "Pacientes": [
+    {
+      "ID": "01",
+      "Faixa_etaria": "55-59",
+      "Sexo_biologico": "Feminino",
+      "Raça": "Branca",
+      "IMC": 16.6,
+      "Fumante": "Sim",
+      "Consumo_alcool": "Nao",
+      "Saude_fisica": 3,
+      "Saude_mental": 30,
+      "Dificuldade_caminhar": "Nao",
+      "Atividade_fisica": "Sim",
+      "Saude_geral": "Muito boa",
+      "Horas_sono": 5,
+      "Problemas_saude": [
+        "Diabetes",
+        "Asma",
+        "Cancer_pele"
+      ]
+    },
+    {
+      "ID": "02",
+      "Faixa_etaria": "80 ou +",
+      "Sexo_biologico": "Feminino",
+      "Raça": "Branca",
+      "IMC": 20.34,
+      "Fumante": "Nao",
+      "Consumo_alcool": "Nao",
+      "Saude_fisica": 0,
+      "Saude_mental": 0,
+      "Dificuldade_caminhar": "Nao",
+      "Atividade_fisica": "Sim",
+      "Saude_geral": "Muito boa",
+      "Horas_sono": 7,
+      "Problemas_saude": [
+        "AVC"
+      ]
+    },
+    {
+      "ID": "03",
+      "Faixa_etaria": "65-69",
+      "Sexo_biologico": "Masculino",
+      "Raça": "Branca",
+      "IMC": 26.58,
+      "Fumante": "Sim",
+      "Consumo_alcool": "Nao",
+      "Saude_fisica": 20,
+      "Saude_mental": 30,
+      "Dificuldade_caminhar": "Nao",
+      "Atividade_fisica": "Sim",
+      "Saude_geral": "Muito boa",
+      "Horas_sono": 8,
+      "Problemas_saude": [
+        "diabetes",
+        "Asma"
+      ]
+    }
+  ]
+}
